@@ -1,4 +1,6 @@
 # 🔐 OptimusSecurity
+- Start: 01.08.2025
+- Ende: 10.08.2025
 
 ## 📘 Inhaltsverzeichnis
 
