@@ -2,6 +2,9 @@
 - Start: 01.08.2025
 - Ende: 10.08.2025
 
+# VIDEO
+- https://www.youtube.com/@HelloNerd-Channel
+
 ## 📘 Inhaltsverzeichnis
 
 - [Überblick](#überblick)
